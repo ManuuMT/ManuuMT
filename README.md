@@ -1,6 +1,6 @@
-<h2 align="center">Hi! My name is Manu 👋 <br><br>
+<h3 align="center">Hi! My name is Manu 👋 <br><br>
 
-👨🏻‍💻 I am a <strong>Jr. Full Stack Developer</strong><br>I invite you to get to know my work!</h2>
+👨🏻‍💻 I am a <strong>Jr. Full Stack Developer</strong><br>I invite you to get to know my work!</h3>
 
 
 ![](https://i.imgur.com/rYABupD.jpg?1)
