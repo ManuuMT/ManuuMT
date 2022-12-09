@@ -1,6 +1,6 @@
 <h3 align="center">Hi! My name is Manu 👋 <br><br>
 
-👨🏻‍💻 I am a <strong>Jr. Full Stack Developer</strong><br>I invite you to get to know my work!</h3>
+👨🏻‍💻 I am a <strong>Frontend Developer</strong><br>I invite you to get to know my work!</h3>
 
 
 ![](https://i.imgur.com/rYABupD.jpg?1)
@@ -8,9 +8,8 @@
 <h3>⭐ About Me</h3>
   
 <ul>
-  <li>💡 I’m currently working as CMO in Worksut, the startup that I co-founded</li>
   <li>💻 I’m looking to collaborate on motivating and high-impact projects </li>
-  <li>💬 Ask me about full stack development, classic rock, or photography!</li>
+  <li>💬 Ask me about frontend development, classic rock, or photography!</li>
   <li>📫 You can contact me here: emtuero@hotmail.com</li>
 </ul>
 
