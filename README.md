@@ -1,6 +1,6 @@
 <h3 align="center">Hi! My name is Manu 👋 <br><br>
 
-👨🏻‍💻 I am <strong>Full Stack Developer</strong><br>I invite you to get to know my work!</h3>
+👨🏻‍💻 I am <strong>Frontend Developer</strong><br>I invite you to get to know my work!</h3>
 
 
 ![](https://i.imgur.com/rYABupD.jpg?1)
@@ -9,7 +9,7 @@
   
 <ul>
   <li>💻 I’m looking to collaborate on motivating and high-impact projects </li>
-  <li>💬 Ask me about frontend development, classic rock, or photography!</li>
+  <li>💬 Ask me about creative development, classic rock, or photography!</li>
   <li>📫 You can contact me here: emtuero@hotmail.com</li>
 </ul>
 
